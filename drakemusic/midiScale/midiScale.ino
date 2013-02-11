@@ -1,3 +1,4 @@
+//forgot to add comments
 byte majorScale[]={0,2,4,5,7,9,11,12};
 byte baseNote=55;
 byte theVelocity=127;
