@@ -25,8 +25,8 @@ int led2State = LOW;
 long previous1Millis = 0;        // will store last time each LED was updated
 long previous2Millis = 0;
 
-long interval1 = 1000;           // interval at which to blink each LED (milliseconds)
-long interval2 = 1000;
+long interval1 = 300;           // interval at which to blink each LED (milliseconds)
+long interval2 = 500;
 
 void setup() {
   // set the digital pin as output:
