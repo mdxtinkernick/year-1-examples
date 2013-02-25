@@ -1,7 +1,7 @@
 //an array with the offsets for a major scale
 byte majorScale[]={
   0,2,4,5,7,9,11,12};
-//midi note 55 is D, so this will play a D major scale
+//midi note 55 is G, so this will play a G major scale
 byte baseNote=55;
 //full volume for all the notes
 byte theVelocity=127;
